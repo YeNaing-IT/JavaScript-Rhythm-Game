@@ -8,7 +8,8 @@ A web-based rhythm game developed using **HTML, CSS, JavaScript, PHP, AJAX, and 
 
 The main screen where players start their rhythm game experience.
 
-![Homepage](<img width="642" height="622" alt="image" src="https://github.com/user-attachments/assets/f9537b91-e76b-4524-a8a1-fde686b0d41d" />)
+![Homepage](<img width="645" height="620" alt="homepage" src="https://github.com/user-attachments/assets/17b48322-482d-4440-a8a8-2b586578dd96" />
+
 
 ### 2. Select Song
 
