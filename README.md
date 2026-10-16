@@ -8,27 +8,23 @@ A web-based rhythm game developed using **HTML, CSS, JavaScript, PHP, AJAX, and 
 
 The main screen where players start their rhythm game experience.
 
-![Homepage](<img width="645" height="620" alt="homepage" src="https://github.com/user-attachments/assets/17b48322-482d-4440-a8a8-2b586578dd96" />
+<img width="645" height="620" alt="homepage" src="https://github.com/user-attachments/assets/17b48322-482d-4440-a8a8-2b586578dd96" />
 
 
 ### 2. Select Song
 
 Browse and select a song before starting gameplay.
-
-![Select Song](<img width="650" height="521" alt="image" src="https://github.com/user-attachments/assets/04e5630c-80ec-4045-8567-aad36f7458aa"/>
-)
+<img width="650" height="521" alt="image" src="https://github.com/user-attachments/assets/04e5630c-80ec-4045-8567-aad36f7458aa"/>
 
 ### 3. Gameplay
 
 Play along with the rhythm and aim for a high score.
-
-![Gameplay](<img width="642" height="300" alt="image" src="https://github.com/user-attachments/assets/d0bd3c72-0ff5-41ed-801a-b90eba5d67ea" />)
+<img width="642" height="300" alt="image" src="https://github.com/user-attachments/assets/d0bd3c72-0ff5-41ed-801a-b90eba5d67ea" />
 
 ### 4. Scoreboard
 
 View the scores recorded by players.
-
-![Scoreboard](<img width="707" height="177" alt="image" src="https://github.com/user-attachments/assets/387708ed-760e-49a2-becf-bfee2c33cede" />)
+<img width="707" height="177" alt="image" src="https://github.com/user-attachments/assets/387708ed-760e-49a2-becf-bfee2c33cede" />
 
 ## Technologies Used
 
