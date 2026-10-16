@@ -1,91 +1,62 @@
-# 🎵 JavaScript Rhythm Game
+# JavaScript Rhythm Game
 
-A browser-based rhythm game built with **HTML, CSS, JavaScript, PHP, AJAX, and jQuery**. The project combines music gameplay with a web-based interface, song selection, and score tracking.
+A web-based rhythm game developed using **HTML, CSS, JavaScript, PHP, AJAX, and jQuery**. Players can select songs, enjoy rhythm-based gameplay, and view their scores on the scoreboard.
 
-## 🎮 About the Project
+## Screenshots
 
-The JavaScript Rhythm Game is a web development project that explores interactive gameplay, audio integration, and server-side functionality. Players can access the rhythm game through a browser and interact with its song selection and scoring features.
+### 1. Homepage
 
-## ✨ Features
+The main screen where players start their rhythm game experience.
 
-- **Music-Based Gameplay** — Play a rhythm game through a web interface.
-- **Song Selection** — Choose songs to play.
-- **Score Tracking** — Submit and display gameplay scores.
-- **Scoreboard** — View recorded scores.
-- **Audio Assets** — Uses sound and song files for the gameplay experience.
-- **Interactive Interface** — Built with JavaScript, jQuery, and AJAX.
-- **PHP Integration** — Handles server-side pages and score-related functionality.
+![Homepage](<img width="642" height="622" alt="image" src="https://github.com/user-attachments/assets/f9537b91-e76b-4524-a8a1-fde686b0d41d" />
+)
 
-## 🛠️ Technologies Used
+### 2. Select Song
 
-| Technology | Purpose |
-|---|---|
-| HTML5 | Web page structure |
-| CSS3 | Interface styling |
-| JavaScript | Gameplay logic and interactivity |
-| PHP | Server-side functionality |
-| jQuery | DOM manipulation and event handling |
-| AJAX | Asynchronous browser-server communication |
+Browse and select a song before starting gameplay.
 
-## 📁 Project Structure
+![Select Song](<img width="650" height="521" alt="image" src="https://github.com/user-attachments/assets/04e5630c-80ec-4045-8567-aad36f7458aa" />
+)
 
-```text
-JavaScript-Rhythm-Game/
-├── icons/             # Game icons and visual assets
-├── songs/             # Music files
-├── sounds/            # Sound effects and audio assets
-├── login.php          # Login page
-├── rhythm.php         # Rhythm game page
-├── scoreboard.php     # Scoreboard page
-├── select_song.php    # Song selection page
-├── submit_score.php   # Score submission handler
-├── script.js          # JavaScript functionality
-├── style.css          # Stylesheet
-└── README.md
-```
+### 3. Gameplay
 
-## 🚀 Getting Started
+Play along with the rhythm and aim for a high score.
 
-### Prerequisites
+![Gameplay](<img width="642" height="300" alt="image" src="https://github.com/user-attachments/assets/d0bd3c72-0ff5-41ed-801a-b90eba5d67ea" />
+)
 
-- A modern web browser
-- A local PHP development environment, such as XAMPP
-- The project files downloaded or cloned from GitHub
+### 4. Scoreboard
 
-### Installation
+View the scores recorded by players.
 
-1. Clone the repository:
+![Scoreboard](<img width="707" height="177" alt="image" src="https://github.com/user-attachments/assets/387708ed-760e-49a2-becf-bfee2c33cede" />
+)
 
-   ```bash
-   git clone https://github.com/YeNaing-IT/JavaScript-Rhythm-Game.git
-   ```
+## Technologies Used
 
-2. Move the project folder into your local web server directory. For XAMPP, this is typically:
+- **HTML5** — Page structure
+- **CSS3** — Styling and layout
+- **JavaScript** — Game logic and interactions
+- **PHP** — Server-side functionality
+- **AJAX** — Asynchronous requests
+- **jQuery** — DOM manipulation and event handling
 
-   ```text
-   C:\xampp\htdocs\
-   ```
+## Project Structure
 
-3. Start **Apache** through the XAMPP Control Panel.
+- `login.php` — Login page
+- `select_song.php` — Song selection page
+- `rhythm.php` — Rhythm gameplay page
+- `scoreboard.php` — Scoreboard page
+- `script.js` — JavaScript functionality
+- `style.css` — Application styling
+- `songs/` — Song assets
+- `sounds/` — Sound effects
+- `icons/` — Icon assets
 
-4. Open your browser and navigate to:
+## Getting Started
 
-   ```text
-   http://localhost/JavaScript-Rhythm-Game/
-   ```
-
-5. Follow the available game interface to access the song selection and gameplay pages.
-
-> **Note:** If the project requires a database or additional configuration, set it up according to the PHP source code before running the game.
-
-## 🧠 Learning Objectives
-
-This project provides practical experience with:
-
-- Developing interactive browser-based games
-- Implementing gameplay logic with JavaScript
-- Integrating audio assets into a web application
-- Connecting frontend interfaces with PHP
-- Using AJAX for asynchronous communication
-- Managing and displaying player scores
-
+1. Clone or download this repository.
+2. Set up a local PHP development environment, such as XAMPP.
+3. Place the project folder inside the web server's document root.
+4. Start the required services.
+5. Open the project through your local server in a web browser.
